@@ -1,0 +1,2 @@
+﻿  M3 - Formative_3.cpp
+C:\Users\Admin\source\repos\M3 - Formative_3\M3 - Formative_3\M3 - Formative_3.cpp(15,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
